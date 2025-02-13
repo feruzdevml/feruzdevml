@@ -1,16 +1,19 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://devops-journey.uz"><img src="https://raw.githubusercontent.com/feruzdevml/feruzdevml/main/assets/slide-1.png" alt="Welcome Image"></a>
+</p>
 
-<!--
-**feruzdevml/feruzdevml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://rust-lang.uz/#contributor"><img src="https://raw.githubusercontent.com/feruzdevml/feruzdevml/main/assets/trophy-1.png" width=48% alt="Most Active Rustacean"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/rust-lang-uz/book/commits/main/"><img src="https://raw.githubusercontent.com/feruzdevml/feruzdevml/main/assets/trophy-2.png" width=48% alt="Impactful Localizer"></a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/feruzdevml?tab=repositories"><img src="https://raw.githubusercontent.com/feruzdevml/feruzdevml/main/assets/slide-2.png" alt="Community Leader"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://hits.sh/github.com/feruzdevml/">
+    <img src="https://hits.sh/github.com/feruzdevml.svg?label=Feruz's%20Followers&color=242424&labelColor=242424&logo=rust">
+  </a>
+</p>
